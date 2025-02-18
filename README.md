@@ -3,10 +3,10 @@ Um sistema simples e eficiente de registro de usuários com Java, React.js e MyS
 
 Criado para aprimorar meus conhecimentos em programação, este projeto oferece um sistema de gerenciamento de usuários bem estruturado e funcional. Com ele, é possível:
 
-✅ Cadastrar usuários
-✅ Visualizar detalhes dos usuários
-✅ Editar informações em tempo real
-✅ Excluir registros da base de dados
+✅ Cadastrar usuários<br>
+✅ Visualizar detalhes dos usuários<br>
+✅ Editar informações em tempo real<br>
+✅ Excluir registros da base de dados<br>
 
 Todas as operações são atualizadas automaticamente no banco de dados, garantindo eficiência e sincronização. 🚀
 <h1>Tecnologias usadas</h1>
